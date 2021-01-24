@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JavaPractice">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/JavaPractice/src/main/java/org/launchcode/JavaPractice" />
+      <root url="file://$PROJECT_DIR$/JavaPractice/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
